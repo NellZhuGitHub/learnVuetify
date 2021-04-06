@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1", 
+        "name": "第一层01", 
+        "selected": false, 
+        "icon":"robot-dead-outline",
+        "children": [
+            {
+                "id": "11", 
+                "selected": false, 
+                "name": "第二层0101", 
+                "children": [
+                    {
+                        "id": "11", 
+                        "selected": false, 
+                        "name": "第二层010101", 
+                        "children": [ ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "id": "2", 
+        "name": "第一层02", 
+        "selected": false, 
+        "children": [
+            {
+                "id": "10", 
+                "selected": false, 
+                "name": "第二层0201", 
+                "children": [ ]
+            }
+        ]
+    }, 
+    {
+        "id": "3", 
+        "selected": false, 
+        "name": "第一层03", 
+        "children": [
+            {
+                "id": "4", 
+                "selected": false, 
+                "name": "第二层0301", 
+                "children": [
+                    {
+                        "id": "5", 
+                        "selected": false, 
+                        "name": "第三层030101", 
+                        "children": [ ]
+                    }, 
+                    {
+                        "id": "9", 
+                        "selected": false, 
+                        "name": "第三层030102", 
+                        "children": [ ]
+                    }
+                ]
+            }, 
+            {
+                "id": "6", 
+                "selected": false, 
+                "name": "第二层0302", 
+                "children": [ ]
+            }, 
+            {
+                "id": "7", 
+                "selected": false, 
+                "name": "第二层0303", 
+                "children": [ ]
+            }
+        ]
+    }, 
+    {
+        "id": "8", 
+        "selected": false, 
+        "name": "第一层04", 
+        "children": []
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "title": "首页",
+      "path": "/home",
+      "pid": 0,
+      "sid": "6",
+      "description": "",
+      "create_time": "2019-12-19 16:46:28",
+      "modify_tiem": "2019-12-23 18:28:05",
+      "action": "home",
+      "items": [{
+        "id": 6,
+        "title": "表格",
+        "path": "/report",
+        "pid": 1,
+        "sid": "",
+        "description": "",
+        "create_time": "2019-12-19 16:51:02",
+        "modify_tiem": "2019-12-19 16:51:02",
+        "action": ""
+      }]
+    }, {
+      "id": 2,
+      "title": "商品管理",
+      "path": "/item",
+      "pid": 0,
+      "sid": "7, 8, 9, 10",
+      "description": "",
+      "create_time": "2019-12-19 16:46:29",
+      "modify_tiem": "2019-12-23 18:28:05",
+      "action": "apps",
+      "items": [{
+          "id": 7,
+          "title": "分类管理",
+          "path": "/category",
+          "pid": 2,
+          "sid": "",
+          "description": "",
+          "create_time": "2019-12-19 16:56:07",
+          "modify_tiem": "2019-12-19 16:56:07",
+          "action": ""
+        },
+        {
+          "id": 8,
+          "title": "品牌管理",
+          "path": "/brand",
+          "pid": 2,
+          "sid": "",
+          "description": "",
+          "create_time": "2019-12-19 16:56:07",
+          "modify_tiem": "2019-12-19 16:56:07",
+          "action": ""
+        },
+        {
+          "id": 9,
+          "title": "商品列表",
+          "path": "/goodsList",
+          "pid": 2,
+          "sid": "",
+          "description": "",
+          "create_time": "2019-12-19 16:56:07",
+          "modify_tiem": "2019-12-19 16:56:07",
+          "action": ""
+        },
+        {
+          "id": 10,
+          "title": "规格参数",
+          "path": "/specification",
+          "pid": 2,
+          "sid": "",
+          "description": "",
+          "create_time": "2019-12-19 16:56:07",
+          "modify_tiem": "2019-12-19 16:56:07",
+          "action": ""
+        }
+      ]
+    }
+  ] 
